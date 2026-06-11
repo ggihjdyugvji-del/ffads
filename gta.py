@@ -22,7 +22,7 @@ except Exception as e:
 # ==========================================
 #   הכנס כאן את הטוקן של הבוט
 # ==========================================
-TOKEN = os.environ.get("DISCORD_TOKEN", "MTUxMzkwMzYzMDM4MDQzNzYyNQ.Gb_uZZ.sxrQn15fj01JFvnsn0RbS7DOFMvMS-YMS2-wqI")
+TOKEN = os.environ.get("DISCORD_TOKEN", "")
 # ==========================================
 
 SECRET_CHANNEL_IDS = (1514541910088486932, 1506120705329070143)
