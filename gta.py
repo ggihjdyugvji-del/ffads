@@ -25,8 +25,8 @@ except Exception as e:
 TOKEN = os.environ.get("DISCORD_TOKEN", "")
 # ==========================================
 
-SECRET_CHANNEL_IDS = (1513900430436995082, 1506120705329070143)
-COMMAND_LOG_CHANNEL_ID = 1513897894141493290
+SECRET_CHANNEL_IDS = (1514541910088486932, 1506120705329070143)
+COMMAND_LOG_CHANNEL_ID = 1514542289358426263
 
 ACCOUNTS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'accounts.json')
 NEXUS_LOGO_URL = "https://cdn.discordapp.com/embed/avatars/0.png"
